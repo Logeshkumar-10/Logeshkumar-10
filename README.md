@@ -91,23 +91,6 @@ Sona College of Technology, Salem | 2019–2023 | **GPA: 9.14/10**
  </a>
 </ul>
     
----
-
-<h3>Language and tools:hammer_and_wrench:</h3>
-<p>
-<img width="45" height="45" hspace="10" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg"/>
-<img width="60" height="50" hspace="10" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fde%2Fthumb%2Fd%2Fdd%2FMySQL_logo.svg%2F1280px-MySQL_logo.svg.png"/>
-<img width="45" height="45" hspace="10" src="http://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843"/>
-<img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img width="55" height="55" hspace="10" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"/>
-<img width="45" height="45" hspace="10" src="https://pbs.twimg.com/profile_images/1187765724451868673/uVw1PWA7_400x400.png"/>
-<img width="45" height="45" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>
-<img width="55" height="55" hspace="10" src="https://spng.subpng.com/20181109/kcv/kisspng-logo-image-python-font-product-spread-networks-and-seaborn-team-up-to-provide-sea-5be5f5e073fcb0.4787772615417973444751.jpg"/>
-<img width="65" height="65" hspace="10" src="https://i2.wp.com/softwareengineeringdaily.com/wp-content/uploads/2016/09/scikit-learn-logo.png?fit=566%2C202&ssl=1"/>
-<img width="55" height="55" hspace="10" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"/>
-<img width="45" height="45" hspace="10" src="https://www.pngjoy.com/pngm/142/2853977_primerica-logo-tableau-software-hd-png-download.png"/>
-<img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
-
  ---
 
 <h3>Projects File🗄️:</h3>
@@ -148,6 +131,9 @@ Here I have some of my practiced dashboards using Tableau. I created these Dashb
 06 | Brazilian E-commerce Analysis | [.twbx](https://drive.google.com/file/d/1A-1LEmBubIM9u4w9l_6NLRSOhLvdrAM5/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1TrL2vSPGpbUE5Ja3M2f3KnYPaXEbIpC5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
 </a>
 </ul>
+
+ ---
+ 
 ## ACHIEVEMENTS & RECOGNITION
 
 ### **Internal Performance Recognition**
