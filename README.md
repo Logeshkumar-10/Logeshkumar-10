@@ -1,25 +1,79 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is LogeshKumar S </h1>
 <h2 align="center">BI Developer :computer:</h2>
+**Email:** elogu2001@outlook.com | **Phone:** +91 9043989239 | **Location:** Chidambaram, India  
+**LinkedIn:** [Logeshkumar-Sivakumar](https://linkedin.com/in/logeshkumar-sivakumar) | **Portfolio:** [PowerBI Portfolio](https://mavenshowcase.com/profile/68412380-5091-70e5-c195-c8a36727fc9a) | **GitHub:** [Logeshkumar-10](https://github.com/Logeshkumar-10)
 
-I am a Business Intelligence Developer with a strong passion for the data-driven industry. My experience in the field has helped me develop a deep understanding of data warehousing, data modeling, and data visualization. I am always eager to learn and grow, and I am interested in exploring the field of Data Engineering. I believe that data engineering is a crucial component of the data-driven industry, and I am excited to learn more about building robust data pipelines and creating scalable data architectures. I am a motivated and ambitious individual who is committed to constant professional growth and building a long-term career. 
+---
+
+## PROFESSIONAL SUMMARY
+
+Microsoft-certified Business Intelligence Engineer with 2+ years of proven impact delivering high-performance BI and analytics solutions using Power BI, Microsoft Fabric, and Inforiver Suite. Expert in enterprise data migrations, customer-facing pre-sales consulting, POC development, and translating complex business requirements into scalable data models.
+
+**Core Strengths:** End-to-end analytics architecture | Enterprise migrations | Requirement gathering & solution design | Live customer demonstrations | Automated reporting pipelines | Cross-functional collaboration (Sales, Marketing, Customer Success, R&D)
 
 ---
 
-<h3>Skills:💻:</h3>
- <li>Power BI</li>
- <li>Fabric</li>
- <li>Inforiver</li>
-<li>Power Automate</li>
- <li>DAX</li>
- <li>My SQL</li>
- <li>MS-Office</li>
- <li>Pivot, Power Query, Power Pivot, Macros</li>
- <li>Tableau</li>
- <li>NumPy, Pandas, Matplotlib, Seaborn</li>
- <li>Notions</li>
-</ul>
+## CORE COMPETENCIES
+
+**Analytics & BI Platforms:**  
+Power BI (Desktop & Service) | Microsoft Fabric | Inforiver Suite (Writeback Matrix, Analytics+, Reporting Matrix, Lumel EPM)
+
+**Data Engineering & Modeling:**  
+SQL | DAX | MDX | Data Modeling | ETL (Power Query, Dataflows, Pipelines) | Data Architecture | Advanced Formula Design
+
+**Professional Skills:**  
+Pre-Sales Consulting | Enterprise Migration | Requirements Gathering | POC Development | Solution Architecture | Data Storytelling | Customer Training & Onboarding | Stakeholder Management | Cross-functional Collaboration
+
+**Technical Tools:**  
+Power BI Desktop & Service | Microsoft Fabric Workspace | SQL Server | Power Query | Dataflows | Excel | Looker Studio | Tableau
+
+**Certifications:**  
+Microsoft DP-600 (Fabric Analytics Engineer Associate) | Microsoft DP-700 (Fabric Data Engineer Associate)
 
 ---
+
+## PROFESSIONAL EXPERIENCE
+
+### **Business Intelligence Engineer**
+**Lumel Technologies Pvt. Ltd.** | Aug 2023 – Present | Chennai, India
+
+- **Led major enterprise migration project:** Orchestrated seamless transition of 40+ legacy IBM Cognos reports to Power BI + Inforiver for US-based enterprise customer, enabling modernized analytics infrastructure and contributing ~$50K+ annual recurring revenue.
+
+- **Delivered high-impact customer demos & POCs:** Conducted 15+ customer demonstrations and proof-of-concept projects across FY2024 using Power BI, Fabric, and Inforiver Suite, achieving 60%+ conversion rate and directly supporting sales pipeline growth.
+
+- **Built integrated Sales Performance & Lead Tracking Dashboard:** Designed and deployed unified dashboard in Microsoft Fabric, consolidating data from 5+ sources and reducing manual reporting time by 40% for internal teams. Enhanced data accuracy and decision-making speed for Sales and Marketing functions.
+
+- **Supported 30+ customers through onboarding & training:** Conducted comprehensive training sessions and data model refinement workshops for new customers, achieving 95%+ satisfaction rating on Inforiver integration projects and driving product adoption.
+
+- **Gathered & analyzed customer feedback for product roadmap:** Identified and documented 25+ product enhancement requests through direct customer interactions, presenting findings to R&D team for feature prioritization and roadmap alignment.
+
+- **Cross-functional collaboration:** Served as primary point of contact for Sales, QA, Marketing, and Customer Success teams on product questions, analytics queries, and technical troubleshooting, ensuring seamless customer experience and internal alignment.
+
+---
+
+### **Project Engineer (Contract) / Internship Trainee**
+**Alpha Ori Technologies** | Mar 2023 – Jul 2023 | Chennai, India
+
+- **IoT Data Integration & Analysis:** Gathered, integrated, and visualized real-time sensor data from IoT infrastructure using MS Excel and Looker Studio, uncovering actionable operational insights for proactive decision-making.
+
+- **Alert Configuration & Monitoring:** Configured automated alerts and notifications based on advanced data analysis, enabling rapid response to critical operational events and improving system reliability.
+
+- **Data Integrity & Quality Assurance:** Implemented advanced data manipulation and validation techniques using Excel to ensure accuracy and reliability of analytics outputs across distributed sensor networks.
+
+---
+
+## EDUCATION
+
+**Bachelor of Engineering in Mechanical Engineering**  
+Sona College of Technology, Salem | 2019–2023 | **GPA: 9.14/10**
+
+---
+
+## CERTIFICATIONS & CREDENTIALS
+
+- **Microsoft Certified: Fabric Analytics Engineer Associate** (DP-600) | 2024
+- **Microsoft Certified: Fabric Data Engineer Associate** (DP-700) | 2024
+
 
 <h3>Contact Info:telephone:</h3>
 <ul>
@@ -96,7 +150,41 @@ Here I have some of my practiced dashboards using Tableau. I created these Dashb
 06 | Brazilian E-commerce Analysis | [.twbx](https://drive.google.com/file/d/1A-1LEmBubIM9u4w9l_6NLRSOhLvdrAM5/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1TrL2vSPGpbUE5Ja3M2f3KnYPaXEbIpC5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
 </a>
 </ul>
- 
+## ACHIEVEMENTS & RECOGNITION
+
+### **Internal Performance Recognition**
+
+- Recipient of multiple exceptional performance awards including **"Being Awesome," "Above & Beyond,"** and **"High Five"** recognitions for proactive problem-solving, stakeholder collaboration, and delivering high-impact results within complex BI/analytics environments.
+
+### **Competition & Data Challenges**
+
+- **Finalist:** VisionTech Fest 2022 (Visionet) — Innovation and technology competition
+- **Finalist:** L&T Techgium 2023 — Engineering and technology challenge
+- **Runner-up:** FP20 Analytics "Data-Driven Education Management" Challenge (Feb 2024)
+- **Active Competitor:** Maven Analytics Data Challenges (Airlines Passenger Satisfaction, Space Mission Analysis), Onyx Data Forbes Billionaire Challenge (2022), FP20 Analytics Xmas Gift Sales Challenge (2023)
+
+---
+
+## TECHNICAL SKILLS
+
+**Languages & Query Languages:** SQL, DAX, MDX, M (Power Query), Python (Basics), Excel Functions
+
+**BI & Analytics Platforms:** Power BI (Desktop, Service, Premium), Microsoft Fabric, Inforiver Suite, Tableau, Looker Studio
+
+**Data Engineering Tools:** Power Query, Dataflows, SQL Server, ETL Pipelines, Data Modeling
+
+**Productivity & Collaboration:** Microsoft Excel (Advanced), Microsoft Teams, SharePoint, Jira, GitHub
+
+---
+
+## ADDITIONAL INFORMATION
+
+**Certifications:** Microsoft DP-600, Microsoft DP-700  
+**Languages:** English (Fluent), Tamil (Native)  
+
+---
+
+*Last Updated: December 2025*
 ---
 
 <h3>Github stats:dart:</h3>
