@@ -1,7 +1,5 @@
 <h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is LogeshKumar S </h1>
-<h2 align="center">BI Developer :computer:</h2>
-**Email:** elogu2001@outlook.com | **Phone:** +91 9043989239 | **Location:** Chidambaram, India  
-**LinkedIn:** [Logeshkumar-Sivakumar](https://linkedin.com/in/logeshkumar-sivakumar) | **Portfolio:** [PowerBI Portfolio](https://mavenshowcase.com/profile/68412380-5091-70e5-c195-c8a36727fc9a) | **GitHub:** [Logeshkumar-10](https://github.com/Logeshkumar-10)
+<h2 align="center">BI Engineer | Pre-Sales Consultant :computer:</h2>
 
 ---
 
