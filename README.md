@@ -1,4 +1,4 @@
-<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is LogeshKumar Sivakumar </h1>
+<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is Logeshkumar Sivakumar </h1>
 <h2 align="center">BI Engineer | Pre-Sales Consultant :computer:</h2>
 
 ---
