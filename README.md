@@ -40,13 +40,15 @@ AI-Powered Tool Development | Prompt Engineering | Automated Data Validation | L
 ### Business Intelligence Engineer
 **Lumel Technologies Pvt. Ltd.** | Aug 2023 – Present | Chennai, India
 
-- Led the technical coordination for a US enterprise customer's migration from IBM Cognos to Power BI and Inforiver, producing detailed solution documents and ensuring functional parity across reporting requirements.
-- Designed and delivered 20+ customer demos and POC projects in FY2025 using Power BI, Fabric, and Inforiver Suite, contributing to strong customer conversion and adoption.
-- **Built two production-grade AI tools** (see Featured Projects below) that significantly accelerated POC delivery and semantic model setup.
-- Designed end-to-end Sales Performance Report in Microsoft Fabric, consolidating multiple data sources with automated scheduled exports, reducing manual reporting effort by approximately 70%.
-- Deployed n8n-based AI automation workflows for lead data enrichment and SQL-based validation pipelines improving data quality for 60,000+ customer accounts.
-- Conducted weekly training sessions and a 15-day onboarding programme for new joiners; contributed to Lumel Learning Hub.
-- Acted as primary technical contact across Sales, QA, Marketing, Customer Success, and R&D teams.
+- Led technical coordination for a US enterprise's IBM Cognos-to-Power BI migration, ensuring functional parity and contributing to multi-year customer retention. 
+- Delivered 40+ customer demos and POCs across Power BI, Fabric, and Inforiver Suite, resulting in strong conversion from evaluation to adoption. 
+- Design, build, and maintain end-to-end dashboards and data models in Microsoft Fabric and Power BI for sales performance, lead & revenue tracking, and management reporting.
+- Implement and support automated reporting and export flows for lead and prospect tracking, reducing manual effort and improving data freshness for leadership team. Implement AI-powered n8n automation flows to streamline lead and prospect tracking, reduce manual effort, and directly support increased sales efficiency.
+- **Built two AI-powered internal tools** (Claude-powered dataset generator and Fabric semantic model builder) that accelerated POC delivery and reduced model setup time for pre-sales engagements.
+- Led end-to-end webinar marketing campaign design using Claude, producing segmented HTML email broadcasts, LinkedIn company and personal posts, Reddit community content, poll questions, and post-event engagement workflows; successfully executed across Lumel product webinars.
+- Analyze customer feedback and product usage to propose enhancements for Inforiver components (e.g., Super Filter, Premium Table, Scheduler, Matrix, Analytic+, PowerTable & EPM) and support product feature discussions.
+- Collaborate with Sales, Marketing, QA, Customer Success, and R&D to understand requirements, refine KPIs, and translate business questions into actionable analytics.
+- Train and onboard customers and internal teams on Power BI, Fabric, and Inforiver usage, promoting self-service analytics and best practices.
 - **Recognition:** Star Performer - Consistently Exceeded Expectations. Awards: Being Awesome (Aug 2025), Above & Beyond (Dec 2024), High Five (May 2024).
 
 ### Project Engineer (Contract) / Internship Trainee
