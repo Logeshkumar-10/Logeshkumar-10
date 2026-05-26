@@ -1,176 +1,155 @@
-<h1 align="center">&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Hi👋 This is Logeshkumar Sivakumar </h1>
-<h2 align="center">BI Engineer | Pre-Sales Consultant :computer:</h2>
+<h1 align="center">Hi. I'm Logeshkumar Sivakumar</h1>
+<h2 align="center">BI & Analytics Engineer | Microsoft Fabric Specialist | Pre-Sales Consultant</h2>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## Professional Summary
 
-Microsoft-certified Business Intelligence Engineer with 2+ years of proven impact delivering high-performance BI and analytics solutions using Power BI, Microsoft Fabric, and Inforiver Suite. Expert in enterprise data migrations, customer-facing pre-sales consulting, POC development, and translating complex business requirements into scalable data models.
+Microsoft-certified Business Intelligence and Fabric Analytics Engineer (DP-600, DP-700) with 3 years of enterprise delivery at Lumel Technologies. I specialise in Power BI, Microsoft Fabric, and the Inforiver Suite — building scalable data models, customer-facing pre-sales solutions, and AI-powered internal tooling.
 
-**Core Strengths:** End-to-end analytics architecture | Enterprise migrations | Requirement gathering & solution design | Live customer demonstrations | Automated reporting pipelines | Cross-functional collaboration (Sales, Marketing, Customer Success, R&D)
-
----
-
-## CORE COMPETENCIES
-
-**Analytics & BI Platforms:**  
-Power BI (Desktop & Service) | Microsoft Fabric | Inforiver Suite (Writeback Matrix, Analytics+, Reporting Matrix, Lumel EPM)
-
-**Data Engineering & Modeling:**  
-SQL | DAX | MDX | Data Modeling | ETL (Power Query, Dataflows, Pipelines) | Data Architecture | Advanced Formula Design
-
-**Professional Skills:**  
-Pre-Sales Consulting | Enterprise Migration | Requirements Gathering | POC Development | Solution Architecture | Data Storytelling | Customer Training & Onboarding | Stakeholder Management | Cross-functional Collaboration
-
-**Technical Tools:**  
-Power BI Desktop & Service | Microsoft Fabric Workspace | SQL Server | Power Query | Dataflows | Excel | Looker Studio | Tableau
-
-**Certifications:**  
-Microsoft DP-600 (Fabric Analytics Engineer Associate) | Microsoft DP-700 (Fabric Data Engineer Associate)
+My work spans end-to-end analytics delivery: from requirements gathering and POC development to automated reporting pipelines and semantic model automation.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## Core Competencies
 
-### **Business Intelligence Engineer**
+**BI & Analytics Platforms:**
+Power BI (Desktop & Service) | Microsoft Fabric | Inforiver Suite | Tableau | Looker Studio
+
+**Data Engineering & Languages:**
+SQL | DAX | MDX | Power Query | Dataflows | ETL Pipelines | Data Modelling | n8n Workflows
+
+**Pre-Sales & Consulting:**
+Customer Demos | POC Development | Requirements Gathering | Solution Design | Enterprise Migration
+
+**AI & Automation:**
+AI-Powered Tool Development | Prompt Engineering | Automated Data Validation | Lead Enrichment Pipelines
+
+---
+
+## Certifications
+
+- **Microsoft Certified: Fabric Analytics Engineer Associate** (DP-600) | Issued: May 2024 | Expires: May 30, 2027 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/LogeshkumarSivakumar-1615/AF15AA7B1FAFA8C3?sharingId=A4EDB148F9409CAA)
+- **Microsoft Certified: Fabric Data Engineer Associate** (DP-700) | Issued: Aug 2025 | Expires: Aug 24, 2027 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/LogeshkumarSivakumar-1615/11744A8FF7A57819?sharingId=A4EDB148F9409CAA)
+- **SQL (Basic)** | HackerRank | November 2021
+
+---
+
+## Professional Experience
+
+### Business Intelligence Engineer
 **Lumel Technologies Pvt. Ltd.** | Aug 2023 – Present | Chennai, India
 
-- **Led major enterprise migration project:** Orchestrated seamless transition of 40+ legacy IBM Cognos reports to Power BI + Inforiver for US-based enterprise customer, enabling modernized analytics infrastructure and contributing ~$50K+ annual recurring revenue.
+- Led the technical coordination for a US enterprise customer's migration from IBM Cognos to Power BI and Inforiver, producing detailed solution documents and ensuring functional parity across reporting requirements.
+- Designed and delivered 20+ customer demos and POC projects in FY2025 using Power BI, Fabric, and Inforiver Suite, contributing to strong customer conversion and adoption.
+- **Built two production-grade AI tools** (see Featured Projects below) that significantly accelerated POC delivery and semantic model setup.
+- Designed end-to-end Sales Performance Report in Microsoft Fabric, consolidating multiple data sources with automated scheduled exports, reducing manual reporting effort by approximately 70%.
+- Deployed n8n-based AI automation workflows for lead data enrichment and SQL-based validation pipelines improving data quality for 60,000+ customer accounts.
+- Conducted weekly training sessions and a 15-day onboarding programme for new joiners; contributed to Lumel Learning Hub.
+- Acted as primary technical contact across Sales, QA, Marketing, Customer Success, and R&D teams.
+- **Recognition:** Star Performer - Consistently Exceeded Expectations. Awards: Being Awesome (Aug 2025), Above & Beyond (Dec 2024), High Five (May 2024).
 
-- **Delivered high-impact customer demos & POCs:** Conducted 15+ customer demonstrations and proof-of-concept projects across FY2024 using Power BI, Fabric, and Inforiver Suite, achieving 60%+ conversion rate and directly supporting sales pipeline growth.
-
-- **Built integrated Sales Performance & Lead Tracking Dashboard:** Designed and deployed unified dashboard in Microsoft Fabric, consolidating data from 5+ sources and reducing manual reporting time by 40% for internal teams. Enhanced data accuracy and decision-making speed for Sales and Marketing functions.
-
-- **Supported 30+ customers through onboarding & training:** Conducted comprehensive training sessions and data model refinement workshops for new customers, achieving 95%+ satisfaction rating on Inforiver integration projects and driving product adoption.
-
-- **Gathered & analyzed customer feedback for product roadmap:** Identified and documented 25+ product enhancement requests through direct customer interactions, presenting findings to R&D team for feature prioritization and roadmap alignment.
-
-- **Cross-functional collaboration:** Served as primary point of contact for Sales, QA, Marketing, and Customer Success teams on product questions, analytics queries, and technical troubleshooting, ensuring seamless customer experience and internal alignment.
-
----
-
-### **Project Engineer (Contract) / Internship Trainee**
+### Project Engineer (Contract) / Internship Trainee
 **Alpha Ori Technologies** | Mar 2023 – Jul 2023 | Chennai, India
 
-- **IoT Data Integration & Analysis:** Gathered, integrated, and visualized real-time sensor data from IoT infrastructure using MS Excel and Looker Studio, uncovering actionable operational insights for proactive decision-making.
-
-- **Alert Configuration & Monitoring:** Configured automated alerts and notifications based on advanced data analysis, enabling rapid response to critical operational events and improving system reliability.
-
-- **Data Integrity & Quality Assurance:** Implemented advanced data manipulation and validation techniques using Excel to ensure accuracy and reliability of analytics outputs across distributed sensor networks.
+- Gathered, integrated, and visualised IoT sensor data using Excel and Looker Studio for real-time operational monitoring.
+- Configured rule-based alerts for proactive decision-making and ensured data quality through advanced data manipulation.
 
 ---
 
-## EDUCATION
+## Featured Projects
 
-**Bachelor of Engineering in Mechanical Engineering**  
-Sona College of Technology, Salem | 2019–2023 | **GPA: 9.14/10**
+### AI-Powered Internal Tools (2025)
+
+**[Enterprise Planning Dataset Generator](https://github.com/Logeshkumar-10/demo-dataset-creator)** (Claude-powered)
+- Produces industry-specific, transaction-level datasets with reconciled P&L source tables, multi-dimensional hierarchies, and scenario-aware data structures.
+- Used for POC delivery and pre-sales demo preparation across retail, manufacturing, and financial services verticals.
+
+**[Power BI Semantic Model Builder](https://github.com/Logeshkumar-10/pbix-model-creator)** (Claude-powered)
+- Generates Tabular Editor-compatible BIM files with enterprise-grade DAX measures in display folders, full relationship configuration, and model documentation.
+- Reduces semantic model setup time for customer engagements and internal analytics delivery.
+
+**Webinar Marketing Campaign Automation** (Claude-powered)
+- Designed and executed end-to-end pre-webinar marketing campaigns using Claude, covering segmented HTML email broadcasts, personal email sequences, LinkedIn company and personal posts, Reddit community content, webinar poll questions, and post-event engagement workflows.
+- Successfully led campaign execution across 3 Lumel product webinars.
 
 ---
 
-## CERTIFICATIONS & CREDENTIALS
+## Power BI Reports and Dashboards
 
-- **Microsoft Certified: Fabric Analytics Engineer Associate** (DP-600) | 2024
-- **Microsoft Certified: Fabric Data Engineer Associate** (DP-700) | 2024
+Public challenge and practice work:
 
+| # | Title | Power BI Link | Source Data |
+|---|-------|--------------|-------------|
+| 01 | IPL Player & Team Stats (2008–2022) | [View](https://app.powerbi.com/view?r=eyJrIjoiMzg2MTMwNjYtOTdhOC00YjBkLWI5OTMtNGVkYzI2MjIxMDVlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Multi-source compilation |
+| 02 | FIFA World Cup 1930–2023 Stats | [View](https://app.powerbi.com/view?r=eyJrIjoiOTI0YWNmNWMtMmM1ZS00YjE2LWFiNDQtZmJmYWJhODRkNTUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Multi-source compilation |
+| 03 | Bangladesh Property Finder | [View](https://app.powerbi.com/view?r=eyJrIjoiMmRjMmRhMDMtMDQ4YS00MjVjLWE0M2MtYjY3OThlNDRmN2ViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [Kaggle](https://www.kaggle.com/datasets/ijajdatanerd/property-listing-data-in-bangladesh) |
+| 04 | PwC Call Centre Analysis (Forage) | [View](https://app.powerbi.com/view?r=eyJrIjoiMGRmNjBlMTMtYzE2Zi00NmM5LWE2YTAtNTBiMTMyMTVkYWYxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Forage |
+| 05 | PwC Customer Churn Analysis (Forage) | [View](https://app.powerbi.com/view?r=eyJrIjoiOTFhOTQwYjQtZWY2Ni00MzAxLWI1NDItYjI5ZTUyMzQyYzNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Forage |
+| 06 | Maven Space Mission Dashboard | [View](https://app.powerbi.com/view?r=eyJrIjoiMWE4YmY2ZDItNDZiNS00NzlhLWJjZjYtYTgxZjE4YWM3YTE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Maven Analytics |
+| 07 | World Billionaires 2022 (Onyx Challenge) | [View](https://app.powerbi.com/view?r=eyJrIjoiNGI3NmZkMjYtYjdiYS00MWFhLWJiM2EtMDRiZWZlNmY4NWRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Onyx Data |
+| 08 | Airlines Customer Satisfaction (Maven Challenge) | [View](https://app.powerbi.com/reportEmbed?reportId=1e2a1979-9d79-4fed-bb5a-f7beb8e65b2f&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | Maven Analytics |
+| 09 | US E-Commerce Dashboard | [View](https://app.powerbi.com/view?r=eyJrIjoiNzAxNGM1Y2MtMGRiNC00NWU3LWI4YTYtOGQ1NGI2NDQ5YzcyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | Internal dataset |
+| 10 | Real Estate Analysis (2025) | [View](https://app.powerbi.com/view?r=) | Internal dataset |
 
-<h3>Contact Info:telephone:</h3>
+---
+
+## Achievements & Recognition
+
+**Internal Awards (Lumel Technologies)**
+- Being Awesome Award (August 2025)
+- Above & Beyond Award (December 2024)
+- High Five Award (May 2024)
+
+**Competitions**
+- Runner-up: FP20 Analytics Challenge - Data-Driven Education Management (February 2024)
+- Finalist: L&T Techgium 6th Edition Engineering Innovation Challenge (2023)
+- Finalist: Visionet VisionTech Fest TechThon (2022)
+
+---
+
+## Education
+
+**Bachelor of Engineering in Mechanical Engineering**
+Sona College of Technology, Salem, India | 2019–2023 | GPA: 9.08/10
+
+---
+
+## Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| BI Platforms | Power BI, Microsoft Fabric, Inforiver Suite, Tableau, Looker Studio |
+| Languages | SQL, DAX, MDX, M (Power Query), Python (basics) |
+| Data Engineering | ETL Pipelines, Dataflows, SQL Server, Data Modelling |
+| Automation | n8n Workflows, AI Tool Development, Prompt Engineering |
+| Tools | Tabular Editor, Excel (Advanced), Microsoft Teams, GitHub |
+
+---
+
+## Contact
+
 <ul>
-    <li><a href="mailto:elogu2001@gmail.com" target="_blank"> <img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/> </a></li>
-   <li><a href="mailto:elogu2001@outlook.com" target="_blank"> <img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP__VuTkawlW4TRekuXvrVa2NQDiSQoSL5U8gO-Yvt8zt26S6Gg22K0n8Y5UhLmTFyIA&usqp=CAU"/> </a></li>
-  <li><a href="https://www.linkedin.com/in/logeshkumar-sivakumar-a172571b2" target="_blank"> <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a></li>
-      <li><a href="https://www.instagram.com/leo_logesh_04/" target="_blank"> <img height="30"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+  <li><a href="mailto:elogu2001@outlook.com"><img height="28" src="https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a></li>
+  <li><a href="https://www.linkedin.com/in/logeshkumar-sivakumar/" target="_blank"><img height="28" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
 </ul>
 
 ---
 
-<h3>Profiles:boy:</h3>
+## Profiles
+
 <ul>
-<li><a href="https://www.kaggle.com/logeshkumar04" target="_blank"> <img height="30"  src="https://www.kaggle.com/static/images/site-logo.svg"/> </a>
-<li><a href="https://www.hackerrank.com/elogu2001" target="_blank"> <img height="45"  src="https://uploads-ssl.webflow.com/63272099c5878568dae8a202/63e18107461cdb2e65759eab_Hacker%20Rank_CaseStudy_Tile.png"/>
-<li><a href="https://www.mavenanalytics.io/profile/Logeshkumar-S/109493940" target="_blank"> <img height="30"  src="https://miro.medium.com/v2/resize:fit:1400/1*Px3bVEEpNiWeS1WV8wkwiA.png"/>
- </a>
-</ul>
-    
- ---
-
-<h3>Projects File🗄️:</h3>
-<ul>
-<a href="https://github.com/Logeshkumar-10?tab=repositories" target="_blank"> <img height="30"  src="https://miro.medium.com/max/910/1*BCZkmZR1_YzDZy22Vn4uUw.png"/> 
-<ul>
-
-# PowerBI Reports and Dashboards
-
-Here I have some of reports and dashboards created using Power BI. Data were taken from open sources such as kaggle, Gihub,Maven Analytics, Onyx Data, etc..
-
-\# | Title | Power BI Service | PPTX | Source_Data
----|---|---|---|---|
-01 | IPL Stats | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMzg2MTMwNjYtOTdhOC00YjBkLWI5OTMtNGVkYzI2MjIxMDVlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/1poK91tdOx3hi5xCFfv4C6-b6sRs5lfL-/edit?usp=share_link&ouid=117075618696490675354&rtpof=true&sd=true) | Data Collected from Various sources and modelled together
-02 | FIFA World Cup 1930 to 2018 Stats | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOTI0YWNmNWMtMmM1ZS00YjE2LWFiNDQtZmJmYWJhODRkNTUyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/1DSEvWsN2fj2PH1zfdBKFvg_ilTT6UIMz/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | Data Collected from Various sources and modelled together
-03 | Bangladesh rental property finder report | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMmRjMmRhMDMtMDQ4YS00MjVjLWE0M2MtYjY3OThlNDRmN2ViIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/1wI__j3sh3MHLwUDa3pdXWB1iraZ-hqqy/edit?usp=share_link&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.kaggle.com/datasets/ijajdatanerd/property-listing-data-in-bangladesh)
-04 | Forage - PWC Call Center Case Study | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMGRmNjBlMTMtYzE2Zi00NmM5LWE2YTAtNTBiMTMyMTVkYWYxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/1VpY-KkJiNFiDeBg11Ae05MlaEXwrXE0O/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience?ref=GG7XjTHbetNW9AuHE)
-05 | Forage - PWC Customer Churn Analysis | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOTFhOTQwYjQtZWY2Ni00MzAxLWI1NDItYjI5ZTUyMzQyYzNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/1PyLx8xqJkPFo0ZMpidVUuyG75rkWx9e5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Digital-Up-skilling-Virtual-Case-Experience?ref=GG7XjTHbetNW9AuHE)
-06 | Maven Space Mission Dashboard - Maven Analytics Data Challenge | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMWE4YmY2ZDItNDZiNS00NzlhLWJjZjYtYTgxZjE4YWM3YTE0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/1GW-pxafaQp08WiJz7Ij-oevFWDEZ5PvR/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.mavenanalytics.io/blog/maven-space-challenge)
-07 | Maven Space Mission Report - Maven Analytics Data Challenge | [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=48ce5670-215e-451a-a8fe-92fbb957ddd0&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3) | [PPTX](https://docs.google.com/presentation/d/1aapHOLLOXgGqp5PefK4d7pxoF0lLjcK0/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.mavenanalytics.io/blog/maven-space-challenge)
-08 | World Billionaires 2022 - Onyx Data Challenge | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNGI3NmZkMjYtYjdiYS00MWFhLWJiM2EtMDRiZWZlNmY4NWRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/16PTCpM8LeZ_q6PHQX_iqIHHqkzsepl4J/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://onyxdata.co.uk/dataset_challenge/june-2022/)
-09 | Airlines Customer Satisfaction - Maven Analytics Data Challenge | [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=1e2a1979-9d79-4fed-bb5a-f7beb8e65b2f&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [PPTX](https://docs.google.com/presentation/d/1BVJfa_pBUXEyc0vo15UocvtF4GpmcCIh/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://www.mavenanalytics.io/data-playground)
-10 | US-Ecommerce Dashboard | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNzAxNGM1Y2MtMGRiNC00NWU3LWI4YTYtOGQ1NGI2NDQ5YzcyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PPTX](https://docs.google.com/presentation/d/12d18-qlAdnitm4mld9bJJPMrJ-9NLWEX/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/file/d/1SVJFzIFL66V47PVGlY_0wQ4ipkfAbymV/view?usp=sharing)
-11 | Maven Market Sales Dashboard | [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=a022be1d-1a04-4c58-8047-3c75a5bbff9a&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [PPTX](https://docs.google.com/presentation/d/1lmTb3II73ltVeOGMuNGCKruA7JnK-Y-C/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/drive/folders/1yjhOqNgesskio7WWIYHrCNbrW3QFX8Gv?usp=sharing)
-12 | Adventure Work Cycles Sales Dashboard | [Power BI Service](https://app.powerbi.com/reportEmbed?reportId=5daba9c7-3cf7-479b-9e49-8e4eab1cbf8e&autoAuth=true&ctid=a5bd300c-c3b3-41d8-87e0-1f5c8d364af3&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWVhc3QtYXNpYS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D) | [PPTX](https://docs.google.com/presentation/d/16YuOUlGMj1mEf9t_KEh6G-zP0XlvupiJ/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true) | [Data Files](https://drive.google.com/drive/folders/1I8AGDnzcgn2h1FeSJRKIZv_9yf8XPGXT?usp=sharing)
-
-# Tableau Dashboards
-
-Here I have some of my practiced dashboards using Tableau. I created these Dashboards in Tableau Desktop.But Unfortunately I can't upload in Tableau Sever/Online. So I saved the files as *.twbx format and saved in my Drive.
-
-\# | Title | Dashboard (as *.twbx format) | Presentation
----|---|---|---|
-01 | Covid-19 Calender | [.twbx](https://drive.google.com/file/d/1wPo7T-dUKDoZMGUuPOZZ7Q8Y8sHt-zvP/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1RHnSNW10YImq4ykhBH7UXcpe6XvNGADi/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
-02 | Elective Subject analysis of my Clg Students | [.twbx](https://drive.google.com/file/d/1Gafv5wSOEK828HaWxkkA8aBBu5z0IqVp/view) | [PPTX](https://docs.google.com/presentation/d/1lvSzARp63Vn617Pybt2Rn173SeeUOr1u/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
-03 | IMDB Movie Analysis | [.twbx](https://drive.google.com/file/d/1bf7RtFCspKj7_uRpG_bXeD-qe2kVoYKa/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1mvW8Wgq7LDMHfcNcE5FHYw1PnK6ExhAQ/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
-04 | US E-Commerce Analysis | [.twbx](https://drive.google.com/file/d/18HqY3KmZCSNgl_ycrYQL617C_ISpv8Fv/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1KeJRPdgGF4Y0OhXlz8nFMI9ihul5hjfe/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
-05 | UK Bank Customer Analysis | [.twbx](https://drive.google.com/file/d/13tuH8drPI94r9AxO_DU4V4NeakExddNw/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1hgxjrOn02tNrrfz167Z6JAEuYuQVy-e5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
-06 | Brazilian E-commerce Analysis | [.twbx](https://drive.google.com/file/d/1A-1LEmBubIM9u4w9l_6NLRSOhLvdrAM5/view?usp=sharing) | [PPTX](https://docs.google.com/presentation/d/1TrL2vSPGpbUE5Ja3M2f3KnYPaXEbIpC5/edit?usp=sharing&ouid=117075618696490675354&rtpof=true&sd=true)
-</a>
+  <li><a href="https://mavenshowcase.com/profile/68412380-5091-70e5-c195-c8a36727fc9a" target="_blank">Maven Analytics Portfolio</a></li>
+  <li><a href="https://www.kaggle.com/logeshkumar04" target="_blank">Kaggle</a></li>
+  <li><a href="https://www.hackerrank.com/elogu2001" target="_blank">HackerRank</a></li>
 </ul>
 
- ---
- 
-## ACHIEVEMENTS & RECOGNITION
+---
 
-### **Internal Performance Recognition**
+## GitHub Stats
 
-- Recipient of multiple exceptional performance awards including **"Being Awesome," "Above & Beyond,"** and **"High Five"** recognitions for proactive problem-solving, stakeholder collaboration, and delivering high-impact results within complex BI/analytics environments.
-
-### **Competition & Data Challenges**
-
-- **Finalist:** VisionTech Fest 2022 (Visionet) — Innovation and technology competition
-- **Finalist:** L&T Techgium 2023 — Engineering and technology challenge
-- **Runner-up:** FP20 Analytics "Data-Driven Education Management" Challenge (Feb 2024)
-- **Active Competitor:** Maven Analytics Data Challenges (Airlines Passenger Satisfaction, Space Mission Analysis), Onyx Data Forbes Billionaire Challenge (2022), FP20 Analytics Xmas Gift Sales Challenge (2023)
+![Logeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logeshkumar-10&show_icons=true&theme=radical)
 
 ---
 
-## TECHNICAL SKILLS
-
-**Languages & Query Languages:** SQL, DAX, MDX, M (Power Query), Python (Basics), Excel Functions
-
-**BI & Analytics Platforms:** Power BI (Desktop, Service, Premium), Microsoft Fabric, Inforiver Suite, Tableau, Looker Studio
-
-**Data Engineering Tools:** Power Query, Dataflows, SQL Server, ETL Pipelines, Data Modeling
-
-**Productivity & Collaboration:** Microsoft Excel (Advanced), Microsoft Teams, SharePoint, Jira, GitHub
-
----
-
-## ADDITIONAL INFORMATION
-
-**Certifications:** Microsoft DP-600, Microsoft DP-700  
-**Languages:** English (Fluent), Tamil (Native)  
-
----
-
-*Last Updated: December 2025*
----
-
-<h3>Github stats:dart:</h3>
- 
-![LogeshKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logeshkumar-10&show_icons=true&theme=radical)
+*Last updated: May 2026 | Open to Singapore opportunities*
