@@ -110,8 +110,8 @@ Public challenge and practice work:
 
 ## Education
 
-**Bachelor of Engineering in Mechanical Engineering**
-Sona College of Technology, Salem, India | 2019–2023 | GPA: 9.08/10
+**Bachelor of Engineering in Mechanical Engineering** 
+ Sona College of Technology, Salem, India | 2019–2023 | GPA: 9.08/10
 
 ---
 
@@ -146,10 +146,4 @@ Sona College of Technology, Salem, India | 2019–2023 | GPA: 9.08/10
 
 ---
 
-## GitHub Stats
-
-![Logeshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logeshkumar-10&show_icons=true&theme=radical)
-
----
-
-*Last updated: May 2026 | Open to Singapore opportunities*
+*Last updated: May 2026*
