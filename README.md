@@ -1,39 +1,30 @@
-<div align="center">
+<h1 align="center">Logeshkumar Sivakumar</h1>
 
-# Logeshkumar Sivakumar
+<p align="center"><b>I fix slow, manual, broken processes, then build what replaces them.</b></p>
 
-### I find the slow, manual, or broken part of a process<br>and build the thing that fixes it.
+<p align="center">BI & Analytics Engineer at Lumel Technologies · Power BI · Microsoft Fabric · Automation</p>
 
-**BI & Analytics Engineer** · **Microsoft Fabric** · **Pre-Sales Solutions** · **Automation**
+<p align="center">
+<code>40+ demos & POCs</code> · <code>39 reports generated from code</code> · <code>2 AI tools built</code> · <code>29 hands-on projects</code>
+</p>
 
-Chennai, India · Open to Singapore · 3 years of enterprise delivery at Lumel Technologies
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square"/>
+<img src="https://img.shields.io/badge/Inforiver-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-5C2D91?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
 
-<a href="https://www.linkedin.com/in/logeshkumar-sivakumar/"><img height="28" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:elogu2001@outlook.com"><img height="28" src="https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-
-<br>
-
-**Top skills**
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Inforiver-1F6FEB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DAX-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-**Certified**
-
-<img src="https://img.shields.io/badge/DP--600_Fabric_Analytics_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/DP--700_Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<br>
-
-[Problems I've solved](#problems-ive-solved-at-work) · [How I use AI](#how-i-use-ai) · [Before AI](#where-it-started-solving-real-problems-before-ai) · [Recognition](#recognition) · [Contact](#find-me)
-
-</div>
+<p align="center">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/LogeshkumarSivakumar-1615/AF15AA7B1FAFA8C3?sharingId=A4EDB148F9409CAA"><img src="https://img.shields.io/badge/DP--600_Fabric_Analytics_Engineer-0078D4?style=flat-square"/></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/LogeshkumarSivakumar-1615/11744A8FF7A57819?sharingId=A4EDB148F9409CAA"><img src="https://img.shields.io/badge/DP--700_Fabric_Data_Engineer-0078D4?style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/logeshkumar-sivakumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:elogu2001@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -43,7 +34,7 @@ Tools are the easy part. What I enjoy is the problem: someone is losing hours to
 
 That habit started in college, with Excel sheets built for problems around me, and it's the same habit I use today on enterprise Power BI and Microsoft Fabric work at Lumel Technologies.
 
-Microsoft-certified (DP-600, DP-700). 3 years of enterprise delivery. Based in Chennai, India, open to opportunities in Singapore.
+Microsoft-certified (DP-600, DP-700). 3 years of enterprise delivery. Based in Chennai, India.
 
 ---
 
