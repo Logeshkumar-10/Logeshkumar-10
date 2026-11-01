@@ -111,9 +111,9 @@ Earlier, at Alpha Ori Technologies (2023), I pulled IoT sensor data into Excel a
 
 ## Toolbox
 
-| | |
+| Area | Tools |
 |---|---|
-| BI platforms | Power BI, Microsoft Fabric, Inforiver Suite, Tableau, Looker Studio |
+| BI platforms | Power BI, Microsoft Fabric, Fabric Plan, Inforiver Suite, Tableau, Looker Studio |
 | Languages | SQL, DAX, MDX, M (Power Query), Python (basics) |
 | Data engineering | ETL pipelines, Dataflows, SQL Server, data modelling |
 | Automation and AI | n8n, Claude-based tool building, prompt engineering |
