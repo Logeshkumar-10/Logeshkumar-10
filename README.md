@@ -1,11 +1,39 @@
-<h1 align="center">Logeshkumar Sivakumar</h1>
-<h3 align="center">I find the slow, manual, or broken part of a process and build the thing that fixes it.</h3>
-<p align="center">BI & Analytics Engineer · Microsoft Fabric · Pre-Sales Solutions · Automation</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/logeshkumar-sivakumar/"><img height="28" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:elogu2001@outlook.com"><img height="28" src="https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-</p>
+# Logeshkumar Sivakumar
+
+### I find the slow, manual, or broken part of a process<br>and build the thing that fixes it.
+
+**BI & Analytics Engineer** · **Microsoft Fabric** · **Pre-Sales Solutions** · **Automation**
+
+Chennai, India · Open to Singapore · 3 years of enterprise delivery at Lumel Technologies
+
+<a href="https://www.linkedin.com/in/logeshkumar-sivakumar/"><img height="28" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:elogu2001@outlook.com"><img height="28" src="https://img.shields.io/badge/outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+
+<br>
+
+**Top skills**
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Inforiver-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+**Certified**
+
+<img src="https://img.shields.io/badge/DP--600_Fabric_Analytics_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/DP--700_Fabric_Data_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br>
+
+[Problems I've solved](#problems-ive-solved-at-work) · [How I use AI](#how-i-use-ai) · [Before AI](#where-it-started-solving-real-problems-before-ai) · [Recognition](#recognition) · [Contact](#find-me)
+
+</div>
 
 ---
 
