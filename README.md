@@ -24,8 +24,8 @@ Microsoft-certified (DP-600, DP-700). 3 years of enterprise delivery. Based in C
 | The problem | What I built or did |
 |---|---|
 | A US enterprise had to move from **IBM Cognos to Power BI** without losing trust in the numbers | Led the technical coordination to keep functional parity between the two systems. The migration supported multi-year customer retention |
-| Pre-sales demos need **realistic data that doesn't exist** for each industry | Built a Claude-powered **Enterprise Planning Dataset Generator**: transaction-level, reconciled P&L tables with hierarchies and scenarios, for retail, manufacturing and financial services POCs |
-| Setting up a **semantic model** for each customer POC was slow and repetitive | Built a Claude-powered **Power BI Semantic Model Builder** that generates Tabular Editor-compatible BIM files with DAX measures in display folders, relationships and documentation |
+| Pre-sales demos need **realistic data that doesn't exist** for each industry | Built a Claude-powered **Enterprise Planning Dataset Generator**: transaction-level, reconciled P&L tables with hierarchies and scenarios, for retail, manufacturing and financial services POCs. *Private repository, [contact me](mailto:elogu2001@outlook.com) for access* |
+| Setting up a **semantic model** for each customer POC was slow and repetitive | Built a Claude-powered **Power BI Semantic Model Builder** that generates Tabular Editor-compatible BIM files with DAX measures in display folders, relationships and documentation. *Private repository, [contact me](mailto:elogu2001@outlook.com) for access* |
 | **Lead and prospect tracking** was manual and went stale | Built n8n automation flows plus Fabric and Power BI reporting, so leadership gets fresher data with less manual effort |
 | Raw company domains aren't usable sales data | Built an n8n **B2B company enrichment** workflow that turns a list of domains into usable lead data |
 | Webinars need a lot of coordinated marketing, fast | Designed and ran full campaigns with Claude: segmented HTML emails, LinkedIn posts, Reddit content, polls and post-event follow-ups, across 3 Lumel product webinars |
