@@ -1,30 +1,34 @@
-<h1 align="center">Logeshkumar Sivakumar</h1>
+<div align="center">
 
-<p align="center"><b>I fix slow, manual, broken processes, then build what replaces them.</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F2027,50:203A43,100:2C5364&text=Logeshkumar%20Sivakumar&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=I%20fix%20slow%2C%20manual%2C%20broken%20processes%2C%20then%20build%20what%20replaces%20them.&descSize=18&descAlignY=58&descColor=cfe8ff" width="100%" alt="Logeshkumar Sivakumar"/>
 
-<p align="center">BI & Analytics Engineer at Lumel Technologies · Power BI · Microsoft Fabric · Automation</p>
+**BI & Analytics Engineer** at Lumel Technologies &nbsp;·&nbsp; Power BI &nbsp;·&nbsp; Microsoft Fabric &nbsp;·&nbsp; Automation
 
-<p align="center">
-<code>40+ demos & POCs</code> · <code>39 reports generated from code</code> · <code>2 AI tools built</code> · <code>29 hands-on projects</code>
-</p>
+<table>
+<tr>
+<td align="center" width="25%"><h2>40+</h2><sub>customer demos & POCs</sub></td>
+<td align="center" width="25%"><h2>39</h2><sub>reports generated from code</sub></td>
+<td align="center" width="25%"><h2>2</h2><sub>AI tools built</sub></td>
+<td align="center" width="25%"><h2>29</h2><sub>hands-on projects</sub></td>
+</tr>
+</table>
 
-<p align="center">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fabric_Plan-7B61FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Inforiver-1F6FEB?style=flat-square"/>
 <img src="https://img.shields.io/badge/DAX-5C2D91?style=flat-square"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-</p>
 
-<p align="center">
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/LogeshkumarSivakumar-1615/AF15AA7B1FAFA8C3?sharingId=A4EDB148F9409CAA"><img src="https://img.shields.io/badge/DP--600_Fabric_Analytics_Engineer-0078D4?style=flat-square"/></a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/LogeshkumarSivakumar-1615/11744A8FF7A57819?sharingId=A4EDB148F9409CAA"><img src="https://img.shields.io/badge/DP--700_Fabric_Data_Engineer-0078D4?style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/logeshkumar-sivakumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:elogu2001@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
-</p>
+
+</div>
 
 ---
 
