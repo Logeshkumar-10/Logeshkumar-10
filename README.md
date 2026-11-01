@@ -34,6 +34,17 @@ Microsoft-certified (DP-600, DP-700). 3 years of enterprise delivery. Based in C
 
 ---
 
+## How I use AI
+
+AI is how I move faster on a problem I already understand, not a replacement for understanding it.
+
+- **I start with the problem, not the tool.** Every tool I've built, from the dataset generator to the model builder to the webinar automation, began with a specific pain someone had, and AI was the way to fix it.
+- **I make AI follow rules.** For the Dubai suite I wrote the rulebook first, and the generator checks every build against it before writing a file. Consistency is enforced by the system, not by hoping the output is right.
+- **I keep the judgment.** I decide what to build, what is safe to publish, and what personal data has to be masked. AI drafts and speeds up; I review and decide.
+- **I learned the fundamentals first.** My Excel, Tableau and Power BI projects were built by hand before AI assistants existed. That's how I can tell when an AI answer is wrong.
+
+---
+
 ## A bigger build: 39 reports from code
 
 **Dubai Real Estate Power BI Suite**: 39 Power BI reports for a fictional Dubai property group, all on **one shared semantic model**. A Node.js generator writes every page, visual, bookmark and theme, and checks each build against a written rulebook before it writes a file. The problem it solves: doing 39 reports by hand would be inconsistent and slow, so I made consistency something the code enforces.
