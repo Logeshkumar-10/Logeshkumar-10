@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>40+</h2><sub>customer demos & POCs</sub></td>
+<td align="center" width="25%"><h2>50+</h2><sub>customer demos & POCs</sub></td>
 <td align="center" width="25%"><h2>39</h2><sub>reports generated from code</sub></td>
 <td align="center" width="25%"><h2>2</h2><sub>AI tools built</sub></td>
 <td align="center" width="25%"><h2>29</h2><sub>hands-on projects</sub></td>
